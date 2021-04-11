@@ -1,7 +1,7 @@
 # -
 Метод прогонки для систем с трехдиагональной матрицей
 
-#Формат запуска
+# Формат запуска
 executable_file input.txt output.txt [options]
 
 options:
